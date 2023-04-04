@@ -3,5 +3,5 @@
 3-2 conflict
 4-2
 5
-6
+6 - conflict
 
